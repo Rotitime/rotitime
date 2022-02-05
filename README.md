@@ -1,4 +1,4 @@
-### He there 👋
+### Hello tho there 👋
 
 <!--
 **Rotitime/rotitime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
