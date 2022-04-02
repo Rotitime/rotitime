@@ -1,0 +1,140 @@
+[25-Aug-2020 01:26:40 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[25-Aug-2020 01:26:40 America/Chicago] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home4/mirzasafdar/public_html/rotitime/views/site/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home4/mirzasafdar/public_html/rotitime/views/site/index.php on line 6
+[25-Aug-2020 01:26:40 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[25-Aug-2020 01:26:40 America/Chicago] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home4/mirzasafdar/public_html/rotitime/views/site/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home4/mirzasafdar/public_html/rotitime/views/site/index.php on line 6
+[21-Oct-2020 23:56:02 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Oct-2020 23:56:02 America/Chicago] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home4/mirzasafdar/public_html/rotitime/views/site/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home4/mirzasafdar/public_html/rotitime/views/site/index.php on line 6
+[21-Oct-2020 23:56:05 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Oct-2020 23:56:05 America/Chicago] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home4/mirzasafdar/public_html/rotitime/views/site/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home4/mirzasafdar/public_html/rotitime/views/site/index.php on line 6
+[21-Oct-2020 23:56:06 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Oct-2020 23:56:06 America/Chicago] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home4/mirzasafdar/public_html/rotitime/views/site/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home4/mirzasafdar/public_html/rotitime/views/site/index.php on line 6
+[21-Oct-2020 23:56:06 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Oct-2020 23:56:06 America/Chicago] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home4/mirzasafdar/public_html/rotitime/views/site/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home4/mirzasafdar/public_html/rotitime/views/site/index.php on line 6
+[21-Oct-2020 23:56:07 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Oct-2020 23:56:07 America/Chicago] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home4/mirzasafdar/public_html/rotitime/views/site/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home4/mirzasafdar/public_html/rotitime/views/site/index.php on line 6
+[21-Oct-2020 23:56:07 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Oct-2020 23:56:07 America/Chicago] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home4/mirzasafdar/public_html/rotitime/views/site/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home4/mirzasafdar/public_html/rotitime/views/site/index.php on line 6
+[21-Oct-2020 23:56:07 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Oct-2020 23:56:07 America/Chicago] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home4/mirzasafdar/public_html/rotitime/views/site/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home4/mirzasafdar/public_html/rotitime/views/site/index.php on line 6
+[21-Oct-2020 23:56:07 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Oct-2020 23:56:07 America/Chicago] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home4/mirzasafdar/public_html/rotitime/views/site/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home4/mirzasafdar/public_html/rotitime/views/site/index.php on line 6
+[21-Oct-2020 23:56:08 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Oct-2020 23:56:08 America/Chicago] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home4/mirzasafdar/public_html/rotitime/views/site/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home4/mirzasafdar/public_html/rotitime/views/site/index.php on line 6
+[21-Oct-2020 23:56:08 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Oct-2020 23:56:08 America/Chicago] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home4/mirzasafdar/public_html/rotitime/views/site/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home4/mirzasafdar/public_html/rotitime/views/site/index.php on line 6
+[21-Oct-2020 23:56:23 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Oct-2020 23:56:23 America/Chicago] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home4/mirzasafdar/public_html/rotitime/views/site/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home4/mirzasafdar/public_html/rotitime/views/site/index.php on line 6
+[22-Oct-2020 00:00:32 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[22-Oct-2020 00:00:32 America/Chicago] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home4/mirzasafdar/public_html/rotitime/views/site/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home4/mirzasafdar/public_html/rotitime/views/site/index.php on line 6
+[22-Oct-2020 00:00:32 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[22-Oct-2020 00:00:32 America/Chicago] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home4/mirzasafdar/public_html/rotitime/views/site/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home4/mirzasafdar/public_html/rotitime/views/site/index.php on line 6
+[22-Oct-2020 00:00:32 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[22-Oct-2020 00:00:32 America/Chicago] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home4/mirzasafdar/public_html/rotitime/views/site/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home4/mirzasafdar/public_html/rotitime/views/site/index.php on line 6
+[22-Oct-2020 00:00:36 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[22-Oct-2020 00:00:36 America/Chicago] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home4/mirzasafdar/public_html/rotitime/views/site/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home4/mirzasafdar/public_html/rotitime/views/site/index.php on line 6
+[22-Oct-2020 00:00:37 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[22-Oct-2020 00:00:37 America/Chicago] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home4/mirzasafdar/public_html/rotitime/views/site/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home4/mirzasafdar/public_html/rotitime/views/site/index.php on line 6
+[22-Oct-2020 00:00:37 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[22-Oct-2020 00:00:37 America/Chicago] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home4/mirzasafdar/public_html/rotitime/views/site/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home4/mirzasafdar/public_html/rotitime/views/site/index.php on line 6
+[22-Oct-2020 00:00:37 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[22-Oct-2020 00:00:37 America/Chicago] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home4/mirzasafdar/public_html/rotitime/views/site/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home4/mirzasafdar/public_html/rotitime/views/site/index.php on line 6
+[22-Oct-2020 00:00:38 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[22-Oct-2020 00:00:38 America/Chicago] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home4/mirzasafdar/public_html/rotitime/views/site/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home4/mirzasafdar/public_html/rotitime/views/site/index.php on line 6
+[22-Oct-2020 00:00:38 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[22-Oct-2020 00:00:38 America/Chicago] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home4/mirzasafdar/public_html/rotitime/views/site/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home4/mirzasafdar/public_html/rotitime/views/site/index.php on line 6
+[22-Oct-2020 00:00:38 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[22-Oct-2020 00:00:38 America/Chicago] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home4/mirzasafdar/public_html/rotitime/views/site/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home4/mirzasafdar/public_html/rotitime/views/site/index.php on line 6
+[22-Oct-2020 00:00:38 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[22-Oct-2020 00:00:38 America/Chicago] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home4/mirzasafdar/public_html/rotitime/views/site/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home4/mirzasafdar/public_html/rotitime/views/site/index.php on line 6
+[22-Oct-2020 00:00:39 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[22-Oct-2020 00:00:39 America/Chicago] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home4/mirzasafdar/public_html/rotitime/views/site/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home4/mirzasafdar/public_html/rotitime/views/site/index.php on line 6
+[22-Oct-2020 00:00:39 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[22-Oct-2020 00:00:39 America/Chicago] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home4/mirzasafdar/public_html/rotitime/views/site/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home4/mirzasafdar/public_html/rotitime/views/site/index.php on line 6
+[22-Oct-2020 00:01:00 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[22-Oct-2020 00:01:00 America/Chicago] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home4/mirzasafdar/public_html/rotitime/views/site/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home4/mirzasafdar/public_html/rotitime/views/site/index.php on line 6
+[09-Nov-2020 07:51:40 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[09-Nov-2020 07:51:40 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Yii' not found in /home4/mirzasafdar/public_html/rotitime/views/site/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home4/mirzasafdar/public_html/rotitime/views/site/index.php on line 5

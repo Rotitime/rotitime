@@ -1,0 +1,3 @@
+#for all search engines, but google will still crawl
+User-agent: *
+Disallow: /

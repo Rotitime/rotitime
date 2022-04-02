@@ -1,0 +1,10 @@
+[25-Aug-2020 01:25:41 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[25-Aug-2020 01:25:41 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'yii\web\AssetBundle' not found in /home4/mirzasafdar/public_html/rotitime/assets/AppAsset.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/mirzasafdar/public_html/rotitime/assets/AppAsset.php on line 18
+[25-Aug-2020 01:25:43 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[25-Aug-2020 01:25:43 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'yii\web\AssetBundle' not found in /home4/mirzasafdar/public_html/rotitime/assets/AppAssetAdmin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/mirzasafdar/public_html/rotitime/assets/AppAssetAdmin.php on line 18

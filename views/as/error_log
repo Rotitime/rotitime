@@ -1,0 +1,15 @@
+[19-Aug-2020 01:50:31 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[19-Aug-2020 01:50:31 America/Chicago] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home4/mirzasafdar/public_html/rotitime/views/as/home.php:5
+Stack trace:
+#0 {main}
+  thrown in /home4/mirzasafdar/public_html/rotitime/views/as/home.php on line 5
+[22-Oct-2020 00:00:51 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[22-Oct-2020 00:00:51 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Yii' not found in /home4/mirzasafdar/public_html/rotitime/views/as/add_restaurant_steps.php:2
+Stack trace:
+#0 {main}
+  thrown in /home4/mirzasafdar/public_html/rotitime/views/as/add_restaurant_steps.php on line 2
+[09-Nov-2020 07:51:29 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[09-Nov-2020 07:51:29 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'yii\helpers\Url' not found in /home4/mirzasafdar/public_html/rotitime/views/as/home.php:9
+Stack trace:
+#0 {main}
+  thrown in /home4/mirzasafdar/public_html/rotitime/views/as/home.php on line 9

@@ -1,0 +1,5 @@
+[10-Aug-2020 04:51:47 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[10-Aug-2020 04:51:47 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'yii\base\Model' not found in /home4/mirzasafdar/public_html/rotitime/models/RtCommonMethods.php:13
+Stack trace:
+#0 {main}
+  thrown in /home4/mirzasafdar/public_html/rotitime/models/RtCommonMethods.php on line 13

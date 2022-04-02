@@ -1,0 +1,23 @@
+<?php
+
+namespace app\components;
+
+use yii\base\Component;
+
+/**
+ * Class Constant
+ * @package app\components
+ */
+class Constant extends Component
+{
+    public function __construct(array $config = [])
+    {
+
+      
+
+        DEFINE("ROTI_TIME", "roti_time");
+       
+
+        parent::__construct($config);
+    }
+}
