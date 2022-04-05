@@ -78,6 +78,6 @@ return [
 			DEFINE("TBL_RT_SUPER_USERS", "rt_super_users"),
 			DEFINE("MANAGE_LOGIN_ACCOUNT_DETAILS", "session"),
 			DEFINE("COOKIE_EXPIRY_TIME", "180"),
-			DEFINE("SITE_URL", "https://zefasa.com/rotitime/"),
+			DEFINE("SITE_URL", "https://rotitime.de/"),
          ];
 ?>
