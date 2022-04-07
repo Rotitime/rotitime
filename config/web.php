@@ -99,7 +99,7 @@ $config = [
             'class' => 'yii\db\Connection',
             'dsn' => 'mysql:host=localhost;dbname= mirzasaf_rotitime',
             'username' => 'root',
-            'password' => 'Apple!@#456',
+            'password' => 'Welcome!@#456',
             'charset' => 'utf8',
         ],
 
@@ -107,7 +107,7 @@ $config = [
             'class' => 'yii\db\Connection',
             'dsn' => 'mysql:host=localhost;dbname=mirzasaf_rotitime',
             'username' => 'root',
-            'password' => 'Apple!@#456',
+            'password' => 'Welcome!@#456',
             'charset' => 'utf8',
         ],
         /*
