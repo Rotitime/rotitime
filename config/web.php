@@ -98,16 +98,16 @@ $config = [
         'db' => [
             'class' => 'yii\db\Connection',
             'dsn' => 'mysql:host=localhost;dbname= mirzasaf_rotitime',
-            'username' => 'mirzasaf_rotitim',
-            'password' => 'rotiTime20200727',
+            'username' => 'root',
+            'password' => 'Apple!@#456',
             'charset' => 'utf8',
         ],
 
         'rotitime' => [
             'class' => 'yii\db\Connection',
             'dsn' => 'mysql:host=localhost;dbname=mirzasaf_rotitime',
-            'username' => 'mirzasaf_rotitim',
-            'password' => 'rotiTime20200727',
+            'username' => 'root',
+            'password' => 'Apple!@#456',
             'charset' => 'utf8',
         ],
         /*
